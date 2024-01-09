@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenistaken" alt="fallenistaken" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **eagleClient and Clicker Game**
 
-- 🌱 I’m currently learning **JavaScript, Selenium (Python)**
-
+- 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on [Neovim](https://github.com/neovim/neovim/)
 
 - 🤝 I’m looking for help with **nothing**
